@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVoDWdrhjeeLESwwpe7TVOZsROq2B6l/Dp6LuSYfbl3gm7h3wYyKrOUfYDNdcSUITVfvOkgS/GwdPpSHe7rmKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Alberto1519\\Beer-Pong-MOBILE\\Registro\\Registro\\Registro.iOS\\Registro.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
